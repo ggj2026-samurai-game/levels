@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "title": "The Masked Solver",
+    "levels": [
+      {
+        "id": "tutorial-1",
+        "name": "First Steps",
+        "author": "Designer Name",
+        "hash": "#editor:eyJ2Ijo4LCJ3Ijo5LCJoIjo3LCJtYXAiOlsiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIiwiLi4uLi4uLi4uIl0sIm1hc2tzIjpbXSwib2JqZWN0cyI6W10sImVmZmVjdHMiOltdLCJwYWxldHRlIjpbeyJpZCI6ImRlZmF1bHRfd2FsbCIsIm5hbWUiOiJXYWxsIiwiY29sb3IiOjY3MTA4ODYsInB1c2hhYmxlIjpmYWxzZX0seyJpZCI6ImRlZmF1bHRfYmxvY2siLCJuYW1lIjoiQmxvY2siLCJjb2xvciI6MTExODQ4MTAsInB1c2hhYmxlIjp0cnVlfV19"
+      },
+      {
+        "id": "tutorial-2",
+        "name": "Learning Masks",
+        "author": "Designer Name",
+        "hash": "#editor:eyJ2Ijo4..."
+      },
+      {
+        "id": "puzzle-1",
+        "name": "The Challenge",
+        "author": "Designer Name",
+        "hash": "#editor:eyJ2Ijo4..."
+      }
+    ]
+  }
